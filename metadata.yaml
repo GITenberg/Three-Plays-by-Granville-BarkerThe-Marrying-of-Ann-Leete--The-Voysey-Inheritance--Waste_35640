@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6291
     wikipedia: http://en.wikipedia.org/wiki/Harley_Granville-Barker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35640#Three-Plays-by-Granville-BarkerThe-Marrying-of-Ann-Leete--The-Voysey-Inheritance--Waste
 gutenberg_issued: '2011-03-21'
 gutenberg_type: Text
 identifiers:
